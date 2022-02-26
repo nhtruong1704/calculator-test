@@ -318,7 +318,7 @@ public class Calculator extends JFrame {
         });
     }
     public static void main(String[] args) {
-        JFrame frame = new Calculator("Dinh Nhat Truong Calculator");
+        JFrame frame = new Calculator("Динь Нят Чыонг Calculator");
         frame.setVisible(true);
     }
 
